@@ -1,0 +1,133 @@
+Parameters: {'max_depth': 5}
+Mean Test Score: 0.3600
+Std Test Score: 0.0017
+Mean Train Score: 0.3602
+Parameters: {'max_depth': 6}
+Mean Test Score: 0.3797
+Std Test Score: 0.0017
+Mean Train Score: 0.3801
+Parameters: {'max_depth': 7}
+Mean Test Score: 0.3886
+Std Test Score: 0.0018
+Mean Train Score: 0.3895
+Parameters: {'max_depth': 8}
+Mean Test Score: 0.3977
+Std Test Score: 0.0012
+Mean Train Score: 0.3994
+Parameters: {'max_depth': 9}
+Mean Test Score: 0.4045
+Std Test Score: 0.0016
+Mean Train Score: 0.4073			
+			Parameters: {'max_depth': 10}
+			Mean Test Score: 0.4119
+			Std Test Score: 0.0016
+			Mean Train Score: 0.4167
+Parameters: {'max_depth': 11}
+Mean Test Score: 0.4169
+Std Test Score: 0.0006
+Mean Train Score: 0.4249
+Parameters: {'max_depth': 12}
+Mean Test Score: 0.4207
+Std Test Score: 0.0012
+Mean Train Score: 0.4334
+Parameters: {'max_depth': 13}
+Mean Test Score: 0.4251
+Std Test Score: 0.0011
+Mean Train Score: 0.4456
+Parameters: {'max_depth': 14}
+Mean Test Score: 0.4283
+Std Test Score: 0.0005
+Mean Train Score: 0.4607
+Parameters: {'max_depth': 15}
+Mean Test Score: 0.4324
+Std Test Score: 0.0009
+Mean Train Score: 0.4816
+Parameters: {'max_depth': 18}
+Mean Test Score: 0.4422
+Std Test Score: 0.0010
+Mean Train Score: 0.5829
+Parameters: {'max_depth': 20}
+Mean Test Score: 0.4471
+Std Test Score: 0.0016
+Mean Train Score: 0.6816
+Parameters: {'max_depth': 22}
+Mean Test Score: 0.4498
+Std Test Score: 0.0014
+Mean Train Score: 0.7863
+
+----------------------------
+
+Parameters: {'n_estimators': 50}
+Mean Test Score: 0.4247
+Std Test Score: 0.0001
+Mean Train Score: 0.9911
+Parameters: {'n_estimators': 100}
+Mean Test Score: 0.4319
+Std Test Score: 0.0012
+Mean Train Score: 0.9911
+Parameters: {'n_estimators': 500}
+Mean Test Score: 0.4373
+Std Test Score: 0.0005
+Mean Train Score: 0.9911
+			Parameters: {'n_estimators': 1000}
+			Mean Test Score: 0.4379
+			Std Test Score: 0.0008
+			Mean Train Score: 0.9911
+
+----------------------------
+
+Parameters: {'min_samples_split': 2}
+Mean Test Score: 0.4399
+Std Test Score: 0.0008
+Mean Train Score: 0.9856
+Parameters: {'min_samples_split': 5}
+Mean Test Score: 0.4490
+Std Test Score: 0.0007
+Mean Train Score: 0.9639
+Parameters: {'min_samples_split': 8}
+Mean Test Score: 0.4526
+Std Test Score: 0.0011
+Mean Train Score: 0.8905
+Parameters: {'min_samples_split': 10}
+Mean Test Score: 0.4538
+Std Test Score: 0.0007
+Mean Train Score: 0.8332
+Parameters: {'min_samples_split': 12}
+Mean Test Score: 0.4551
+Std Test Score: 0.0004
+Mean Train Score: 0.7824
+			Parameters: {'min_samples_split': 15}
+			Mean Test Score: 0.4558
+			Std Test Score: 0.0008
+			Mean Train Score: 0.7216
+Parameters: {'min_samples_split': 18}
+Mean Test Score: 0.4555
+Std Test Score: 0.0009
+Mean Train Score: 0.6762
+Parameters: {'min_samples_split': 20}
+Mean Test Score: 0.4547
+Std Test Score: 0.0008
+Mean Train Score: 0.6519
+
+----------------------------
+
+Parameters: {'min_samples_leaf': 1}
+Mean Test Score: 0.4399
+Std Test Score: 0.0008
+Mean Train Score: 0.9856
+Parameters: {'min_samples_leaf': 2}
+Mean Test Score: 0.4523
+Std Test Score: 0.0011
+Mean Train Score: 0.9351
+			Parameters: {'min_samples_leaf': 4}
+			Mean Test Score: 0.4557
+			Std Test Score: 0.0009
+			Mean Train Score: 0.7211
+Parameters: {'min_samples_leaf': 6}
+Mean Test Score: 0.4540
+Std Test Score: 0.0010
+Mean Train Score: 0.6177
+Parameters: {'min_samples_leaf': 8}
+Mean Test Score: 0.4532
+Std Test Score: 0.0009
+Mean Train Score: 0.5688
